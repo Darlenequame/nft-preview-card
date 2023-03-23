@@ -113,13 +113,15 @@ p {
   color: var(--Cyan);
   display: flex;
   align-items: center;
+  font-weight: 400;
   gap: 0.5rem;
 }
 
 .days {
   display: flex;
   color: var(--Soft-blue);
-  font-weight: 300;
+  font-weight: 400;
+  gap: 0.5rem;
 }
 
 .avatar {
