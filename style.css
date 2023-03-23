@@ -56,8 +56,7 @@ main {
   display: flex;
   position: absolute;
   content: url("./images/icon-view.svg");
-  top: 6.06rem;
-  left: 36.5rem;
+  
   width: 350px;
   height: 349px;
   border-radius: 0.5rem;
